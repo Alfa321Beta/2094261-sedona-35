@@ -120,6 +120,7 @@ list-style-type: none;
   flex-wrap: wrap;
   width: 1200px;
   padding: 0px;
+  margin-top: 0px;
 }
 
 .advantages_item {
@@ -441,6 +442,11 @@ margin: 0 0 20px 0;
 .hotel_title {
   margin-top: 16px;
   margin-bottom: 16px;
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
 }
 
 .Search_hotel_text{
