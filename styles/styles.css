@@ -52,11 +52,11 @@ body {
 }
 
 .nav-about {
-  margin-left: 16px;
+  margin-left: 32px;
 }
 
 .nav-hotels {
-  margin-left: 16px;
+  margin-left: 32px;
 }
 
 
@@ -76,6 +76,7 @@ body {
   width: 300px;
   display: flex;
   align-items: center;
+  margin-right: 25px;
 }
 
 .interfice-search {
@@ -127,10 +128,10 @@ list-style-type: none;
   display: flex;
 }
 
-.advantages-description-wrapper-103 {
+.advantages-description-wrapper-112 {
   display: flex;
   flex-direction: column;
-  margin: 103px auto 121px auto;
+  margin: 112.5px auto 112.5px auto;
   width: 230px;
   min-height: 160px;
   justify-content: space-between;
@@ -242,6 +243,7 @@ list-style-type: none;
   background-color: #756157;
   padding: 8px 34px;
   border-radius: 4px;
+  margin-top: 14px;
 }
 
 .sedona_short_description{
@@ -284,7 +286,7 @@ list-style-type: none;
 .advantages_block-photo {
   display: flex;
   flex-direction: column;
-  margin: 92px auto 111px auto;
+  margin: 102px auto 102px auto;
   width: 230px;
   justify-content: space-between;
 }
@@ -494,7 +496,6 @@ margin: 0;
 }
 
 .Search_hotel_button{
-  width: 376px;
   display: block;
   font-family: 'PT Sans', sans-serif;
   font-style: normal;
@@ -503,6 +504,7 @@ margin: 0;
   line-height: 36px;
   text-align: center;
   align-items: center;
+  padding-top: 8px;
   text-transform: uppercase;
   color: #FFFFFF;
   background-color: #756157;
@@ -511,6 +513,9 @@ margin: 0;
   margin: 0 auto;
   margin-top: 54px;
   cursor: pointer;
+  width: 376px;
+  height: 52px;
+  box-sizing: border-box;
 }
 
 
