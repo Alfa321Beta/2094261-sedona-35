@@ -154,6 +154,39 @@ list-style-type: none;
   width: 400px;
 }
 
+.oftop_advantages_block {
+  width: 1200px;
+  height: 246px;
+  display: flex;
+  flex-direction: column;
+  background-color: #FFFFFF;
+  }
+
+.oftop_header {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+  background-color: #FFFFFF;
+  margin: 64px auto 0px auto;
+}
+
+.oftop_advantage_description {
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  text-align: center;
+  color: #333333;
+  background-color: #FFFFFF;
+  margin: 20px auto auto auto;
+}
+
 .advantages_photoitem {
   width: 1200px;
   padding: 0;
