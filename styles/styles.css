@@ -380,7 +380,6 @@ footer {
 }
 
 .social_list_item-tg{
-  margin-right: 27px;
   order: 2;
   margin-left: 27px;
 }
@@ -553,7 +552,7 @@ margin: 0;
   background-size: 100% auto;
   background-repeat: no-repeat;
   width: 1200px;
-  height: 411px;
+  height: 414px;
   display: flex;
 }
 
@@ -638,11 +637,11 @@ margin: 0;
   text-transform: uppercase;
   color: #FFFFFF;
   background-color: #82B3D3;
-  width: 223px;
   border-radius: 0px 4px 4px 0px;
   border: none;
   height: 52px;
   padding: 0px;
+  width: 244px;
 }
 
 .accept_button:hover,
