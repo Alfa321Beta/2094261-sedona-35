@@ -393,7 +393,7 @@ footer {
 }
 
 .tg-svg:focus {
-  fill: #68A2CA;
+  fill:#68A2CA;
 }
 
 .tg-svg:active {
@@ -558,7 +558,7 @@ margin: 0;
 
 .newsletter-catalog {
   width: 1200px;
-  height: 411px;
+  height: 414.5px;
   display: flex;
   background-color: #FFFFFF;
 }
@@ -644,6 +644,10 @@ margin: 0;
   width: 244px;
 }
 
+.search_results {
+  padding-bottom: 42px;
+}
+
 .accept_button:hover,
 .hotel_card_button-favorite:hover,
 .subscribe_button:hover {
@@ -718,7 +722,7 @@ margin: 0;
   background-repeat: no-repeat;
   background-color: #82B3D3;
   width: 1200px;
-  height: 403px;
+  height: 408px;
 }
 
 .inner_header_title{
@@ -786,6 +790,7 @@ margin: 0;
 
 .catalog_buttons {
   display: flex;
+  max-height: 225px;
 }
 
 .catalog_filter {
@@ -963,8 +968,9 @@ margin: 0;
 .sort-options-wrapper {
   display: flex;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 16.5px;
   margin-left: 70px;
+  margin-top: 26px;
 }
 
 .search_resaults_title {
@@ -1155,6 +1161,7 @@ margin: 0;
 
 .stars {
   width: 140px;
+  margin-top: 10px;
 }
 
 .four-stars{
